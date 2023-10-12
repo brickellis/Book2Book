@@ -36,8 +36,8 @@ Spacing between the two columns in the .txt (in characters)
 
 col_spacing = 5
 
-<img width="462" alt="Screenshot 2023-10-12 at 12 19 04 PM" src="https://github.com/brickellis/Book2Book/assets/7196734/8c4a0e13-d23a-4d69-bd82-2038a04b91ba">
 
+<img width="462" alt="Screenshot 2023-10-12 at 12 19 04 PM" src="https://github.com/brickellis/Book2Book/assets/7196734/138c1d1f-3f82-4b7a-9570-744afe6853fd">
 
 
 -------
